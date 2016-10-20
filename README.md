@@ -1,6 +1,6 @@
-# Project 1 - *Tumblr Feed*
+# Project 1 - *Flicks*
 
-It is an app using the tumblr api to display blog images.
+It is an app using the movie darabase api to display now playing movie details.
 
 Time spent: **5** hours spent in total
 
